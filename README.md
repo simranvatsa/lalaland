@@ -12,9 +12,6 @@ Palette](https://projects.susielu.com/viz-palette) to build
 devtools::install_github("simranvatsa/lalaland")
 ```
 
-    ## Skipping install of 'lalaland' from a github remote, the SHA1 (21e0f5fe) has not changed since last install.
-    ##   Use `force = TRUE` to force installation
-
 ``` r
 library(lalaland)
 ```
