@@ -10,9 +10,6 @@ Palette](https://projects.susielu.com/viz-palette) to build
 
 ``` r
 devtools::install_github("simranvatsa/lalaland")
-```
-
-``` r
 library(lalaland)
 ```
 
