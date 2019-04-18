@@ -1,0 +1,12 @@
+Package: lalaland
+Type: Package
+Title: Color Palettes From The 2016 Film "La La Land"
+Version: 0.1.0
+Authors@R: person("Simran", "Vatsa", email = "simranvatsa5@gmail.com", role = c("aut", "cre"))
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+Suggests: ggplot2
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
