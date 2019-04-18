@@ -196,11 +196,7 @@ show_lll_palette("Traffic")
 
 ``` r
 library(ggplot2)
-```
 
-    ## Warning: package 'ggplot2' was built under R version 3.5.2
-
-``` r
 ggplot(iris, aes(x = Sepal.Length, y = Petal.Length, color = Species)) +
   geom_point() +
   scale_color_manual(values = lll_palette("CityOfStars1", c(2,3,4))) +
@@ -224,8 +220,7 @@ ggplot(diamonds[diamonds$carat < 3, ], aes(x = carat, fill = cut)) +
 ggplot(mpg, aes(x = class, fill = as.factor(cyl))) +
   geom_bar() +
   scale_fill_manual(values = lll_palette("LighthouseCafe", c(1,3,2,4))) +
-  theme_minimal() +
-  labs("Number of cars by class and cylinders in the mpg dataset")
+  theme_minimal()
 ```
 
 ![](README_files/figure-gfm/unnamed-chunk-13-3.png)<!-- -->
