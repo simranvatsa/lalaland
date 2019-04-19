@@ -38,6 +38,7 @@ lalaland_palettes <- list(
 #' ## In a ggplot2 context:
 #' library(ggplot2)
 #' ggplot(mtcars, aes(x = disp, y = qsec, color = as.factor(carb))) +
+#' geom_point() +
 #' scale_color_manual(values = lll_palette("Epilogue1")) +
 #' theme_minimal()
 #'

@@ -28,6 +28,7 @@ lll_palette("Summer", c(1,3,5))
 ## In a ggplot2 context:
 library(ggplot2)
 ggplot(mtcars, aes(x = disp, y = qsec, color = as.factor(carb))) +
+geom_point() +
 scale_color_manual(values = lll_palette("Epilogue1")) +
 theme_minimal()
 
