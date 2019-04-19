@@ -5,7 +5,10 @@ made an R package of palettes based on stills from the film. I used a
 combination of online image color pickers and Susie Lu’s [Viz
 Palette](https://projects.susielu.com/viz-palette) to build
     them.
+
 Poking around the `wesanderson` [package](https://github.com/karthik/wesanderson) really, really helped me!
+
+> "It's conflict and it's compromise, and ... it's very, very exciting!" - Sebastian, but also me making these palettes
 
 ## Installing and loading the package:
 
