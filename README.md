@@ -27,8 +27,6 @@ palette as an image
 `lll_palette(name, n)`: generates a vector containing hex codes for the
 the selected palette/subsection of palette
 
-`lalaland_palettes`: named list containing all palettes
-
 -----
 
 <br/>
