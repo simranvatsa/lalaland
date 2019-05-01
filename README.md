@@ -8,7 +8,7 @@ Palette](https://projects.susielu.com/viz-palette) to build
 
 Poking around the `wesanderson` [package](https://github.com/karthik/wesanderson) really, really helped me!
 
-> "It's conflict and it's compromise, and ... it's very, very exciting!" - Sebastian, but also me making these palettes
+> "It's conflict and it's compromise, and ... it's very, very exciting!" - Sebastian on jazz, but also me making these palettes
 
 ## Installing and loading the package:
 
