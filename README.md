@@ -24,7 +24,7 @@ library(lalaland)
 `show_lll_palette(name, n)`: prints the selected palette/subsection of
 palette as an image
 
-`lll_palette(name, n)`: generates a vector containing hex codes for the
+`lll_palette(name, n)`: generates a vector containing hex codes for
 the selected palette/subsection of palette
 
 -----
